@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>refresh.ico</file>
+        <file>curious.ico</file>
+    </qresource>
+    <qresource prefix="/translations">
+        <file>micestats_en.qm</file>
+    </qresource>
+</RCC>
